@@ -40,7 +40,7 @@ The objective of the project was to create a Sales Dashboard with the main perfo
 # Author
 ## Riquelmo Afonso Avelar Ferreira
 
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-a28619230/
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 
  
 
