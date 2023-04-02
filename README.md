@@ -51,7 +51,7 @@ https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 
 Esse projeto foi feito durante o treino prático do curso de SQL para Análise de Dados conduzido por Midori Toyota
 
-The objective of the project was to create a Sales Dashboard with the main performance indicators of the fictitious e-commerce that we use as a database, in this project the PostgreSQL and Microsoft Excel were used for the analysis.
+O objetivo desse projeto foi de criar um Dashboard de Vendas com a perfomance principal dos indicadores do e-commerce fictício que nós usamos como base de dados, nesse projeto foram usados o PostgreSQL e o Excel para a análise.
 
 ## Visão Geral do PostgreSQL
 ![PostgreSQLGeral](https://github.com/RiquelmoFerreira/Excel_PostgreSQL_Sales_Dashboard/blob/main/Imagem.png)
