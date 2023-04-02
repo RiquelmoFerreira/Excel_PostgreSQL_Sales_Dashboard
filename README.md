@@ -74,7 +74,7 @@ O objetivo desse projeto foi de criar um Dashboard de Vendas com a perfomance pr
 - Microsoft Excel 2016 ou superior
 
 ## Como rodar:
-- Crie 2 Schemas no PgAdmin 4: sales and temp_tables
+- Crie 2 Schemas no PgAdmin 4: sales e temp_tables
 - New Query
 - Baixe o arquivo "FullQuery.txt" no repositório, aperte Ctrl + A, Copie e Cole no Query Editor e Rode
 - Baixe o arquivo "SalesDashboard.sql" no repositório e rode ele
