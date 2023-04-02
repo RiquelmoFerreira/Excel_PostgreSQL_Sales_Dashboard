@@ -49,7 +49,7 @@ https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 
 # Sobre o projeto
 
-This project was done during the hands-on training of the SQL for Data Analysis course carried out by Midori Toyota
+Esse projeto foi feito durante o treino prático do curso de SQL para Análise de Dados conduzido por Midori Toyota
 
 The objective of the project was to create a Sales Dashboard with the main performance indicators of the fictitious e-commerce that we use as a database, in this project the PostgreSQL and Microsoft Excel were used for the analysis.
 
