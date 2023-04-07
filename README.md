@@ -8,6 +8,14 @@ This project was done during the hands-on training of the SQL for Data Analysis 
 
 The objective of the project was to create a Sales Dashboard with the main performance indicators of the fictitious e-commerce that we use as a database, in this project the PostgreSQL and Microsoft Excel were used for the analysis.
 
+The Dashboard contains graphics with the information:
+- Evolution of Revenue and Average Ticket, so we can identify whether revenues are rising due to the purchase value of cars or not.
+- Evolution of the number of visits to the website and sales conversion
+- Map with information on the Brazilian States with the best sales
+- TOP 5 best selling brands
+- TOP 5 best selling stores
+- Number of visits to the Website according to the day of the week, so we can see that the day with the most visits is on Monday and the day with the least number of visits is on Sunday.
+
 ## PostgreSQL Overview
 ![PostgreSQLOverview](https://github.com/RiquelmoFerreira/Excel_PostgreSQL_Sales_Dashboard/blob/main/Imagem.png)
 
@@ -52,6 +60,14 @@ https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 Esse projeto foi feito durante o treino prático do curso de SQL para Análise de Dados conduzido por Midori Toyota
 
 O objetivo desse projeto foi de criar um Dashboard de Vendas com a perfomance principal dos indicadores do e-commerce fictício que nós usamos como base de dados, nesse projeto foram usados o PostgreSQL e o Excel para a análise.
+
+No Dashboard estão presentes os gráficos com as informações:
+- Evolução da Receita e do Ticket Médio, assim podemos identificar se as receitas estão subindo por conta do valor de compra dos automóveis ou não.
+- Evolução do número de visitas no site e a conversão de vendas
+- Mapa com a informação dos Estados brasileiros com as melhores vendas
+- TOP 5 Marcas mais vendidas
+- TOP 5 Lojas com os melhores números de vendas
+- Número de visitas no Website de acordo o dia da semana, assim podemos analisar que o dia com mais visitas é na Segunda e o dia com menos visita é no Domingo.
 
 ## Visão Geral do PostgreSQL
 ![PostgreSQLGeral](https://github.com/RiquelmoFerreira/Excel_PostgreSQL_Sales_Dashboard/blob/main/Imagem.png)
