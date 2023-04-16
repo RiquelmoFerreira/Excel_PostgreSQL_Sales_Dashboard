@@ -9,7 +9,7 @@ This project was done during the hands-on training of the SQL for Data Analysis 
 The objective of the project was to create a Sales Dashboard with the main performance indicators of the fictitious e-commerce that we use as a database, in this project the PostgreSQL and Microsoft Excel were used for the analysis.
 
 The Dashboard contains graphics with the information:
-- Evolution of Revenue and Average Ticket, so we can identify whether revenues are rising due to the purchase value of cars or not.
+- Evolution of Revenue and Average Ticket, we can see an increase in Revenue and a drop in Average Ticket
 - Evolution of the number of visits to the website and sales conversion
 - Map with information on the Brazilian States with the best sales
 - TOP 5 best selling brands
@@ -62,7 +62,7 @@ Esse projeto foi feito durante o treino prático do curso de SQL para Análise d
 O objetivo desse projeto foi de criar um Dashboard de Vendas com a perfomance principal dos indicadores do e-commerce fictício que nós usamos como base de dados, nesse projeto foram usados o PostgreSQL e o Excel para a análise.
 
 No Dashboard estão presentes os gráficos com as informações:
-- Evolução da Receita e do Ticket Médio, assim podemos identificar se as receitas estão subindo por conta do valor de compra dos automóveis ou não.
+- Evolução da Receita e do Ticket Médio, podemos notar um aumento no valor da Receita e uma queda no valor de Ticket Médio
 - Evolução do número de visitas no site e a conversão de vendas
 - Mapa com a informação dos Estados brasileiros com as melhores vendas
 - TOP 5 Marcas mais vendidas
