@@ -101,7 +101,7 @@ No Dashboard estão presentes os gráficos com as informações:
 # Autor
 ## Riquelmo Afonso Avelar Ferreira
 
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
 
 
  
