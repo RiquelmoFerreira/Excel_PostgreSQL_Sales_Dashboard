@@ -45,6 +45,9 @@ The Dashboard contains graphics with the information:
 - Download the Excel_Sales_Dashboard.xlsx archive of the repositorie
 - Enjoy the Project
 
+# Project's Part 2:
+<a href="https://github.com/RiquelmoFerreira/Excel_PostgreSQL_Customer_Profile" target="_blank" rel="noreferrer noopener">Excel - PostgreSQL - Customer Profile</a>
+#
 
 # Author
 ## Riquelmo Afonso Avelar Ferreira
@@ -97,6 +100,9 @@ No Dashboard estão presentes os gráficos com as informações:
 - Baixe o arquivo "Excel_Sales_Dashboard.xlsx" no repositório
 - Aproveite o projeto
 
+# Parte 2 do Projeto:
+<a href="https://github.com/RiquelmoFerreira/Excel_PostgreSQL_Customer_Profile" target="_blank" rel="noreferrer noopener">Excel - PostgreSQL - Perfil de Clientes</a>
+#
 
 # Autor
 ## Riquelmo Afonso Avelar Ferreira
